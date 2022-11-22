@@ -1,3 +1,6 @@
+//Student Name: Tomas Smitas
+//Date:17/11/2022
+//Purpose:Test understanding of classes and inheritance
 package Lab7;
 
 public class Animal 
