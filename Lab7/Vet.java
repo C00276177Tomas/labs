@@ -1,5 +1,5 @@
 //Student Name: Tomas Smitas
-//Date:17/11/2022
+//Date:22/11/2022
 //Purpose:Test understanding of classes and inheritance
 package Lab7;
 
